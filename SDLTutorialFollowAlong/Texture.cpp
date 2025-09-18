@@ -39,6 +39,7 @@ Texture::Texture(std::string filename, int x, int y, int w, int h)
 	_tClipRect.h = _tHeight;
 }
 
+// same as others but for text textures
 Texture::Texture(std::string text, std::string fontpath, int size)
 {
 	_tGraphics = Graphics::Instance();

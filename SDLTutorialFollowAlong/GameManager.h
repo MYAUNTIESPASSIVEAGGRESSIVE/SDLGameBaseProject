@@ -35,6 +35,7 @@ private:
 
 	Texture* _mTexture;
 	Texture* _mTexture2;
+	Texture* _mTexture3;
 
 	//public funcs
 public:
