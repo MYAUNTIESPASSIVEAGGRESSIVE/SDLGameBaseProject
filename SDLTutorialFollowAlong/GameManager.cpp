@@ -49,12 +49,14 @@ GameManager::GameManager()
 
 	_mTexture = new Texture("Hello World!", "Ithaca-LVB75.TTF", 60);
 	_mTexture2 = new Texture("Hello World!", "Ithaca-LVB75.TTF", 60);
+	_mTexture3 = new Texture("spr_pawn.png");
 
 	// for animated texture do something like this:
 	// _mAnimText = new AnimatedTexture("filename.png", 125, 45, 40, 38, 4, 3.0f, animatedtexture::horizontal)
 
 	_mTexture->SetPos(Vector2(Graphics::SCR_WIDTH * 0.5f, Graphics::SCR_HEIGHT * 0.5f));
 	_mTexture2->SetPos(Vector2(400, 400));
+	_mTexture3->SetPos(Vector2(400, 400));
 }
 
 // destructor
@@ -107,7 +109,7 @@ void GameManager::Run()
 			_mInputManager->Update();
 
 			if (_mInputManager->KeyDown(SDL_SCANCODE_W)) {
-				_mTexture->Translate(Vector2(0.0f, -20.0f) * _mTimer->DeltaTime());
+				_mTexture3->Translate(Vector2(0.0f, -20.0f) * _mTimer->DeltaTime());
 			}
 
 			// first clear the back buffer
@@ -115,6 +117,7 @@ void GameManager::Run()
 
 			_mTexture->Render();
 			_mTexture2->Render();
+			_mTexture3->Render();
 
 			// do render func
 			_mGraphics->Render();
