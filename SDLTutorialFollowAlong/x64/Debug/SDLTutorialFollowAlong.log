@@ -1,2 +1,22 @@
-﻿  GameManager.cpp
-  SDLTutorialFollowAlong.vcxproj -> C:\Users\adamk\Documents\University\SDL\repos\SDLTutorialFollowAlong\x64\Debug\SDLTutorialFollowAlong.exe
+﻿  AnimatedTexture.cpp
+  AssetManager.cpp
+C:\Users\adamk\Documents\Repos\SDLGameBaseProject\SDLTutorialFollowAlong\AssetManager.cpp(93,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EntityBase.cpp
+C:\Users\adamk\Documents\Repos\SDLGameBaseProject\SDLTutorialFollowAlong\EntityBase.cpp(52,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\adamk\Documents\Repos\SDLGameBaseProject\SDLTutorialFollowAlong\EntityBase.cpp(57,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  GameManager.cpp
+  Graphics.cpp
+C:\Users\adamk\Documents\Repos\SDLGameBaseProject\SDLTutorialFollowAlong\Graphics.cpp(62,14): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\adamk\Documents\Repos\SDLGameBaseProject\SDLTutorialFollowAlong\Graphics.cpp(90,20): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  InputManager.cpp
+  Main.cpp
+  Texture.cpp
+C:\Users\adamk\Documents\Repos\SDLGameBaseProject\SDLTutorialFollowAlong\Texture.cpp(28,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\adamk\Documents\Repos\SDLGameBaseProject\SDLTutorialFollowAlong\Texture.cpp(29,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\adamk\Documents\Repos\SDLGameBaseProject\SDLTutorialFollowAlong\Texture.cpp(36,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\adamk\Documents\Repos\SDLGameBaseProject\SDLTutorialFollowAlong\Texture.cpp(37,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Timer.cpp
+C:\Users\adamk\Documents\Repos\SDLGameBaseProject\SDLTutorialFollowAlong\Timer.cpp(44,28): warning C4244: '=': conversion from 'Uint64' to 'Uint32', possible loss of data
+C:\Users\adamk\Documents\Repos\SDLGameBaseProject\SDLTutorialFollowAlong\Timer.cpp(71,33): warning C4244: '=': conversion from 'Uint64' to 'Uint32', possible loss of data
+  Generating Code...
+  SDLTutorialFollowAlong.vcxproj -> C:\Users\adamk\Documents\Repos\SDLGameBaseProject\x64\Debug\SDLTutorialFollowAlong.exe

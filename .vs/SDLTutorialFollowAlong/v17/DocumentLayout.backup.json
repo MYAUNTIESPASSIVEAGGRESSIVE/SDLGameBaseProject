@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\",
+  "WorkspaceRootPath": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\AssetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\AssetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\AssetManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\AssetManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\Graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\Graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\AssetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\AssetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\AssetManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7DFEE46-49CD-4D6A-892D-B1FAC8DDB7CE}|SDLTutorialFollowAlong\\SDLTutorialFollowAlong.vcxproj|solutionrelative:SDLTutorialFollowAlong\\AssetManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,27 +58,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Main.cpp",
               "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\Main.cpp",
-              "ToolTip": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Main.cpp",
+              "ToolTip": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Main.cpp",
               "RelativeToolTip": "SDLTutorialFollowAlong\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-21T17:21:33.33Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameManager.cpp",
-              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\GameManager.cpp",
+              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\GameManager.cpp",
               "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\GameManager.cpp",
-              "ToolTip": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\GameManager.cpp",
+              "ToolTip": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\GameManager.cpp",
               "RelativeToolTip": "SDLTutorialFollowAlong\\GameManager.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-03T14:05:48.7Z",
               "IsPinned": true,
@@ -86,120 +85,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GameManager.h",
-              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\GameManager.h",
+              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\GameManager.h",
               "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\GameManager.h",
-              "ToolTip": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\GameManager.h",
+              "ToolTip": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\GameManager.h",
               "RelativeToolTip": "SDLTutorialFollowAlong\\GameManager.h",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-29T20:29:33.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Texture.cpp",
-              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Texture.cpp",
-              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\Texture.cpp",
-              "ToolTip": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Texture.cpp",
-              "RelativeToolTip": "SDLTutorialFollowAlong\\Texture.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-14T18:33:12.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Texture.h",
-              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Texture.h",
-              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\Texture.h",
-              "ToolTip": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Texture.h",
-              "RelativeToolTip": "SDLTutorialFollowAlong\\Texture.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T18:33:14.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InputManager.h",
-              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\InputManager.h",
-              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\InputManager.h",
-              "ToolTip": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\InputManager.h",
-              "RelativeToolTip": "SDLTutorialFollowAlong\\InputManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T18:07:39.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T20:29:33.706Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "InputManager.cpp",
-              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\InputManager.cpp",
-              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\InputManager.cpp",
-              "ToolTip": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\InputManager.cpp",
-              "RelativeToolTip": "SDLTutorialFollowAlong\\InputManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Texture.cpp",
+              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Texture.cpp",
+              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\Texture.cpp",
+              "ToolTip": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Texture.cpp",
+              "RelativeToolTip": "SDLTutorialFollowAlong\\Texture.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-14T18:07:35.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T18:33:12.209Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AssetManager.cpp",
-              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\AssetManager.cpp",
-              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\AssetManager.cpp",
-              "ToolTip": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\AssetManager.cpp",
-              "RelativeToolTip": "SDLTutorialFollowAlong\\AssetManager.cpp",
-              "ViewState": "AgIAABoAAAAAAAAAAAAYwCUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-14T17:27:07.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AssetManager.h",
-              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\AssetManager.h",
-              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\AssetManager.h",
-              "ToolTip": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\AssetManager.h",
-              "RelativeToolTip": "SDLTutorialFollowAlong\\AssetManager.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
+              "Title": "Texture.h",
+              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Texture.h",
+              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\Texture.h",
+              "ToolTip": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Texture.h",
+              "RelativeToolTip": "SDLTutorialFollowAlong\\Texture.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T17:27:06.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T18:33:14.956Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Graphics.cpp",
-              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Graphics.cpp",
-              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\Graphics.cpp",
-              "ToolTip": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Graphics.cpp",
-              "RelativeToolTip": "SDLTutorialFollowAlong\\Graphics.cpp",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJgAAAAMAAAAAAAAAA==",
+              "Title": "InputManager.h",
+              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\InputManager.h",
+              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\InputManager.h",
+              "ToolTip": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\InputManager.h",
+              "RelativeToolTip": "SDLTutorialFollowAlong\\InputManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-14T18:07:39.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InputManager.cpp",
+              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\InputManager.cpp",
+              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\InputManager.cpp",
+              "ToolTip": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\InputManager.cpp",
+              "RelativeToolTip": "SDLTutorialFollowAlong\\InputManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-14T17:06:10.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T18:07:35.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssetManager.cpp",
+              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\AssetManager.cpp",
+              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\AssetManager.cpp",
+              "ToolTip": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\AssetManager.cpp",
+              "RelativeToolTip": "SDLTutorialFollowAlong\\AssetManager.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-14T17:27:07.395Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Graphics.h",
-              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Graphics.h",
-              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\Graphics.h",
-              "ToolTip": "C:\\Users\\adamk\\Documents\\University\\SDL\\repos\\SDLTutorialFollowAlong\\SDLTutorialFollowAlong\\Graphics.h",
-              "RelativeToolTip": "SDLTutorialFollowAlong\\Graphics.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AssetManager.h",
+              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\AssetManager.h",
+              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\AssetManager.h",
+              "ToolTip": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\AssetManager.h",
+              "RelativeToolTip": "SDLTutorialFollowAlong\\AssetManager.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T17:06:12.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T17:27:06.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graphics.cpp",
+              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Graphics.cpp",
+              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\Graphics.cpp",
+              "ToolTip": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Graphics.cpp",
+              "RelativeToolTip": "SDLTutorialFollowAlong\\Graphics.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-14T17:06:10.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graphics.h",
+              "DocumentMoniker": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Graphics.h",
+              "RelativeDocumentMoniker": "SDLTutorialFollowAlong\\Graphics.h",
+              "ToolTip": "C:\\Users\\adamk\\Documents\\Repos\\SDLGameBaseProject\\SDLTutorialFollowAlong\\Graphics.h",
+              "RelativeToolTip": "SDLTutorialFollowAlong\\Graphics.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-14T17:06:12.003Z"
             }
           ]
         }
